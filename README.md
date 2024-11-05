@@ -17,18 +17,14 @@
 1. Demander à l'utilisateur d'entrer cinq notes et leurs coefficients respectifs.
 2. Convertir les entrées en nombres flottants.
 3. Calculer la moyenne pondérée : 
-   \[
-   \text{moyenne} = \frac{(note1 \times coefficient1) + (note2 \times coefficient2) + ... + (note5 \times coefficient5)}{coefficient1 + coefficient2 + ... + coefficient5}
-   \]
+![Screenshot from 2024-11-05 17-10-30](https://github.com/user-attachments/assets/cab4fd0d-7d2a-4019-98f9-6d0c14f88136)
 4. Afficher la moyenne.
 5. Gérer les erreurs de saisie en affichant un message d'erreur si nécessaire.
 
 # Exercice 3: Calculer le volume d'un ellipsoïde
 1. Demander à l'utilisateur d'entrer les valeurs de `a`, `b` et `c`.
 2. Calculer le volume : 
-   \[
-   \text{volume} = \frac{4}{3} \times π \times a \times b \times c
-   \]
+![Screenshot from 2024-11-05 17-11-31](https://github.com/user-attachments/assets/cabca530-880f-4543-bd49-868a28ff7864)
 3. Afficher le volume.
 
 # Exercice 4: Coordonnées d'un point en coordonnées cylindriques
@@ -37,22 +33,12 @@
 3. Utiliser une boucle pour demander une longueur `teatha`.
 4. Vérifier si `teatha` est dans l'intervalle `[0, 2π]` :
    - Si non, afficher les coordonnées : 
-     \[
-     (R \times \cos(t), R \times \sin(t), Z)
-     \]
+    ![Screenshot from 2024-11-05 17-12-02](https://github.com/user-attachments/assets/94e7d368-9429-43ec-b8fb-23d446790441)
 
 # Exercice 5: Conversion des coordonnées sphériques en coordonnées cartésiennes
 1. Demander à l'utilisateur d'entrer `rho`, `theta`, et `phi`.
 2. Calculer les coordonnées cartésiennes :
-   \[
-   x = \rho \times \cos(\phi) \times \cos(\theta)
-   \]
-   \[
-   y = \rho \times \sin(\phi) \times \sin(\theta)
-   \]
-   \[
-   z = \rho \times \sin(\phi)
-   \]
+  ![Screenshot from 2024-11-05 17-12-32](https://github.com/user-attachments/assets/eeea9030-117e-4e47-bda3-eb006d2ea141)
 3. Vérifier que `phi` et `theta` sont dans les intervalles valides et afficher les résultats.
 
 # Exercice 6: Arrondir un nombre
